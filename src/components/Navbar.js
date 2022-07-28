@@ -4,7 +4,7 @@ const Navbar = () => {
       <header className="shadow-sm bg-body rounded">
         <div className="container">
           <div className="d-flex align-items-center justify-content-between py-2 ">
-            <a className="logo text-decoration-none fs-3 text-dark">
+            <a href="javascript:void(0)" className="logo text-decoration-none fs-3 text-dark">
               Where in the World
             </a>
             <nav className="navbar">
